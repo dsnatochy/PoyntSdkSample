@@ -19,4 +19,13 @@
         android:id="@+id/getBusinessFromCacheBtn"
         android:text="Get Business From Cache" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/startPaymentBtn"
+        android:text="Pay $100" />
+
+
+
+
 </LinearLayout>
